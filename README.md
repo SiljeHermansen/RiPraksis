@@ -32,6 +32,7 @@ Hvis du har valgt zip-fil, skal koden se sådan ud.
 Denne løsning kræver mere manøvrering.
 
 **I browseren:** Start med at downloade og installere RTools uden at åbne RStudio.
+
 **I RStudio:** installer devtools-pakken og importer den fra biblioteket.
 
 `install.packages('devtools')`
