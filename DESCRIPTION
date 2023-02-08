@@ -1,0 +1,10 @@
+Package: RiPraksis
+Type: Package
+Title: R i praksis 
+Version: 0.1.0
+Author: Silje Synnøve Lyder Hermansen
+Maintainer: Silje Synnøve Lyder Hermansen <silje.hermansen@ifs.ku.dk>
+Description: Tillægsressource til R i praksis (2023). DJØF. 1.utg.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
